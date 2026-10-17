@@ -1,3 +1,9 @@
 [submodule "MobilePBL"]
 	path = MobilePBL
 	url = https://github.com/Keluarga-Cemara-Team/MobilePBL.git
+[submodule "WebPBL"]
+	path = WebPBL
+	url = https://github.com/Keluarga-Cemara-Team/WebPBL.git
+[submodule "MachineLearningPBL"]
+	path = MachineLearningPBL
+	url = https://github.com/Keluarga-Cemara-Team/MachineLearningPBL.git
